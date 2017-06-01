@@ -1,0 +1,13 @@
+{
+    "regions": {
+        "FIN": 2, 
+        "CEU": 5, 
+        "IBS": 5, 
+        "GBR": 8, 
+        "TSI": 2
+    }, 
+    "genders": {
+        "male": 7, 
+        "female": 15
+    }
+}

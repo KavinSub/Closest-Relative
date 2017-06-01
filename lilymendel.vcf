@@ -1,0 +1,15 @@
+##fileformat=VCFv4.2
+##FORMAT=<ID=GT,Number=1,Type=String,Description="Genotype">
+##contig=<ID=MT,length=16569>
+#CHROM	POS	ID	REF	ALT	QUAL	FILTER	INFO	FORMAT	mtgenome
+MT	263	rs2853515	A	G	.	.	.	GT	1/1
+MT	310	i4001011	T	C	.	.	.	GT	1/1
+MT	750	rs2853518	A	G	.	.	.	GT	1/1
+MT	1438	rs2001030	A	G	.	.	.	GT	1/1
+MT	4769	rs3021086	A	G	.	.	.	GT	1/1
+MT	6776	i3001487	T	C	.	.	.	GT	1/1
+MT	8860	rs2001031	A	G	.	.	.	GT	1/1
+MT	14501	i6001145	A	G	.	.	.	GT	1/1
+MT	16179	i4001351	C	T	.	.	.	GT	1/1
+MT	16311	rs34799580	T	C	.	.	.	GT	1/1
+MT	16519	rs3937033	T	C	.	.	.	GT	1/1
