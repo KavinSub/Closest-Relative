@@ -91,7 +91,7 @@ if __name__ == '__main__':
 	for gender, count in genders.most_common():
 		print("{}: {}".format(gender, count))
 
-	data = {'regions': regions, 'genders': genders}
+	data = {'regions': regions, 'genders': genders, 'legend': region_map}
 	filename = 'data.json'
 	with open(filename, 'w') as f:
 		json.dump(data, f, indent=4)
