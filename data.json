@@ -9,5 +9,12 @@
     "genders": {
         "male": 7, 
         "female": 15
+    }, 
+    "legend": {
+        "FIN": "Finnish in Finland", 
+        "CEU": "Utah residents with Northern and Western European ancestry", 
+        "IBS": "Iberian populations in Spain", 
+        "GBR": "British in England and Scotland", 
+        "TSI": "Toscani in Italy"
     }
 }

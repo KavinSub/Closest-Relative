@@ -84,6 +84,8 @@ if __name__ == '__main__':
 		regions[region] += 1
 		genders[gender] += 1
 
+	print(region_map)
+
 	print('Region of closest relatives')
 	for region, count in regions.most_common():
 		print("{} - {}: {}".format(region, region_map[region], count))
